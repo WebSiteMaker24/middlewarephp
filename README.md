@@ -29,4 +29,4 @@
 
    ```bash
    git clone https://github.com/WebSiteMaker24/middleware.git
-   cd WebSiteMaker
+   cd middleware
