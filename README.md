@@ -1,8 +1,8 @@
-# PRSECURE - Projet de Sécurisation PHP
+# WebSiteMaker - Projet de Sécurisation PHP
 
 ## Description
 
-**PRSECURE** est un projet PHP visant à sécuriser les applications web avec des pratiques modernes de gestion de session, de cookies et de nettoyage des données d'entrée. Ce projet inclut un middleware qui assure la sécurité de l'application à différents niveaux :
+**WebSiteMaker** est un projet PHP visant à sécuriser les applications web avec des pratiques modernes de gestion de session, de cookies et de nettoyage des données d'entrée. Ce projet inclut un middleware qui assure la sécurité de l'application à différents niveaux :
 
 - Démarrage sécurisé de la session
 - Protection contre les attaques XSS via un nettoyage des entrées utilisateur
@@ -28,5 +28,5 @@
 1. Clonez ce projet dans votre environnement de développement local :
 
    ```bash
-   git clone https://github.com/username/PRSECURE.git
-   cd PRSECURE
+   git clone https://github.com/WebSiteMaker24/middleware.git
+   cd WebSiteMaker
